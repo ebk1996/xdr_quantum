@@ -904,3 +904,10 @@ blockquote::after
 	margin: 3px;
 	color: red;
 }
+
+.call {
+	color:#23ba0f
+	background: #fff;
+	padding: 10px;
+	margin: 15px;
+}
